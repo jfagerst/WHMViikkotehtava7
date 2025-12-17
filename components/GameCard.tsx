@@ -1,0 +1,1 @@
+// Tässä voisi olla UI-komponentti pelille

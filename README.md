@@ -2,12 +2,12 @@
 
 ### Retrieving data from API
 
-What should I play next? This is a mobile app for finding something new to play. Just choose a platform and genre and you're all set! 
+What should I play next? This is a mobile app for finding something new to play. Just choose a platform, genre and minimum metacritic score and you're all set! 
 
 Data is retrieved from RAWG Video Games Database.
 
 
-#### Here is the full discription of assignment:
+#### Here is the full description of assignment:
 
 Create a mobile app based on your own idea/topic that retrieves data from free API (open data). List of available APIs is available, for example, on https://apilist.fun, but basically you can use whatever API you prefer providing JSON, XML or GraphQL.
 
